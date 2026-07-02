@@ -1,0 +1,8 @@
+{
+    "llm_base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "llm_api_key": "your-llm-api-key-here",
+    "llm_model": "qwen-plus",
+    "llm_vision_model": "",
+    "vision_base_url": "",
+    "vision_api_key": ""
+}
