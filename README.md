@@ -1,4 +1,4 @@
-# PDF 自动书签生成工具
+# bookmark:PDF 自动书签生成工具
 
 自动识别 PDF 目录页内容，为 PDF 文件生成章节目录书签（Outline）。
 
